@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sakshiraj08](https://github.com/sakshiraj08)
 
 - 📫 How to reach me **sakshiraj2404@gmail.com**
-- Created E-commerce Website **https://sakshiraj08.github.io/E-commerce/**
+- Created E-commerce Website **https://sakshiraj08.github.io/E-commerce-Website/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
